@@ -1,0 +1,6 @@
+[submodule "AutoMPG"]
+	path = AutoMPG
+	url = https://github.com/Ronak-Mahesh/AutoMPG-Dataset-Regression
+[submodule "TicTacToe"]
+	path = TicTacToe
+	url = https://github.com/Ronak-Mahesh/Tic-Tac-Toe-Dataset-Classification
